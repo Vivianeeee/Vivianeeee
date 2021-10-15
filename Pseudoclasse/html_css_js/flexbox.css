@@ -1,0 +1,64 @@
+/*********Div 1*******/
+
+.container div{
+  border:3px blue;
+  padding: 10px;
+  background-color: crimson;
+
+}
+
+.item1 {
+ color: darkgreen;
+ width: 200px;
+ height: 100px;
+ text-align: center;
+
+}
+
+.item2 {
+    color: rgb(100, 0, 0);
+    width: 200px;
+    height: 100px;
+    text-align: center;
+   
+   }
+
+   .item3 {
+    color: rgb(93, 100, 0);
+    width: 200px;
+    height: 100px;
+    text-align: center;
+   
+   }
+
+   .container{
+display: flex;
+flex-wrap: wrap-reverse;
+justify-content: space-evenly;                                       
+
+   }
+
+   /***********Div 2***************/
+
+   .container2 div{
+    border: 3px black;
+    padding:10px;
+    background-color: coral;
+   
+      }
+      
+      .item4 {
+   color:darkcyan;
+   width: 200px;
+   height: 100px;
+   text-align: center; 
+   
+      }
+   
+      .item5 {
+       color:rgb(139, 79, 0);
+       width: 200px;
+       height: 100px;
+       text-align: center; 
+       
+          }
